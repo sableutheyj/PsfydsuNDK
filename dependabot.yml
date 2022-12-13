@@ -13,10 +13,6 @@ updates:
     - 14.14.37
   - dependency-name: "@babel/parser"
     versions:
-    - 7.12.11
-    - 7.12.13
-    - 7.12.14
-    - 7.12.15
     - 7.12.16
     - 7.12.17
     - 7.13.0
@@ -59,9 +55,6 @@ updates:
   - dependency-name: rollup
     versions:
     - 2.38.5
-  - dependency-name: node-notifier
-    versions:
-    - 8.0.1
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
